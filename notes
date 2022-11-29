@@ -1,0 +1,327 @@
+4 Oct,
+
+- Today i Learn about PHP Loop and OOPS concepts and did some practice on it.
+- Read about Magento Technology. 
+- HR Activity ( Navratri Event)
+
+6 Oct,
+
+- Today i worked on registration form and working with styling part, validation (email, password, state, city, zip-code)
+- created signature in gmail.
+
+7 Oct,
+
+- Created more functionality in registration form
+- Learn about PHP, oops concepts, loops and implemented upload image in form.
+- Worked on styling and validations.
+- Created database for storing inputs.
+- Session with kalrav sir and abhay sir.
+
+8 Oct,
+
+- Created contact app and worked on registration page, login page, home page for user.
+- Take input from user and insert data into database.
+- Work on styling part
+
+10 Oct,
+
+- Create Login form using HTML,CSS,JS,PHP
+- Created login page for already registered users.
+- Created dashboard which contain home, add, profile and logout option.
+- in home user show their dashboard.
+- in add there is one form for add contact (name, email, phone, gender)
+- once user click on logout user will redirect on registration page.
+
+11 Oct,
+
+- created responsive registration form with error message. if anything is wrong input by user it shows error message.
+- data entry in database.
+- created one navigation bar on each page which help to redirect on different page.
+- In Dashboard created home, add, profile and logout option.
+- user can directly switch page from navigation bar.
+- from dashboard there is on Add option user can insert contact name, email, phone, gender, and click on Add button.
+- if user click on logout it will go back to registration page.
+
+12 Oct,
+
+- Created validation in all pages with error message.
+- Worked on pagination for redirect to different pages.	
+- Display error message under fields.
+- Created Recent contact page for diaplay recent contact in tablular form.
+
+13 Oct,
+
+- Completed insert record in registration page using insert query.
+- Completed update record in registration page using update query with get id of that record.
+- Completed delete record in registration page usng delete query with get id of that record.
+- Completed fetch data from database and display all records in tabuler form.
+- And also added 2 option (update, delete) in table for perform updation and deletion operation. (with help of update and delete query).
+
+14 Oct,
+
+- completed proper validation in different pages.
+- complete add, update, delete, display operations on contact.
+- completed recent contacts page. (display recent 5 contact)
+- complete display all contact with (edit,delete) option for updating and deleting contact from database
+- completed more functinalities in registration page and login page with validation.
+- implementation functional navigation bar for different pages.
+
+15 Oct,
+
+- complete validation in all page.
+- complete password encryption.
+- fix some errors in validation.
+- complete recent 5 and all contact with update and delete from database.
+- created my profile page for display current user data only.
+
+17 Oct,
+
+- work on errors and fixed them.
+- work on password encryption and inside of form created one check box for show and hide password.
+- work on fetch current user profile data in their profile section. (different user has different profile data)
+- work on update and delete operation and handle some errors.
+- complete recent contact page which display last five contact details. 
+- Complete all contact page which contain details of all contact like (id, name, email, mobile number, gender, image) and Assigned Update and Delete button for updation and deletion.
+
+18 Oct,
+
+- Complete password encryption.
+- when user click on update fetch data from database and display them and user can view and modify through form directly and it will automatically update in database when user click on update button after updating details.
+- And after update contact details user can see updated details in their contact list as well.
+- For every password field implemented one eye button for show and hide password. (using eye icon).
+- Work on update and delete operation and handle some errors.
+- Work on pagination.
+- Created dashboard with display recent 5 contact and tabular form.
+
+19 Oct,
+
+- Completed paging. (2 hours)
+- In top right corner fetch current user name and display in dashoard as welcome message while he/she login. (welcome back, current_Username!) (30 minutes)
+- table styling for display record in easy to understand using coloums. (30 minutes)
+- Added paging link under All-contacts page and display only 5 records on each page. (3 hour)
+- First page show recent 5 records. similarly, all contact show all-contacts. (30 minutes)
+- completed server side validation. (30 minutes)
+- HR Activity Session: Attended General Meeting for Learning and Development session with Nitin Padhariya Sir.(1 hour)
+
+20 Oct,
+
+- Complete session for login and logout. (2 hours)
+- Complete contact app. (1 hour)
+- Complete auto-fetch gender while updating record details. (2 hours)
+- Complete Client side and server side validation. (2 hours)
+- Attended small session with Gaurang Padiyar Sir. (Talk about php,js,oops concept, and small introduction about magento.) (1 hour)
+
+21 Oct,
+
+- Learn about class, objects, constructor, destructor (2 hours)
+- Learn oops concepts. and conditional operators.  (2 hours)
+- Implementation of constructor and destructor. (3 hours)
+- Learn about string functions. (1 hour)
+
+27 Oct,
+
+- learn operators. (Arithmetic, Assignment, Comparision, Logical) (2 hours)
+- Read about magento. (2 hours)
+- magento installation. (2 hours)
+- Learn magento. (2 hours)
+
+28 Oct,
+
+- revise oops concepts, loops, inheritance. (2 hour)
+- learn class, object, access modifiers. (2 hour)
+- learn sql queries. (2 hour)
+- learn about magento. (2 hour)
+
+31 Oct,
+
+- implemented conformation alert before delete contact. (2 hour)
+- complete client side validation in Registration page. (2 hour) 
+- complete paging with styling, inserted background images for make contact app more attractive. (30 minite)
+- styling in paging. (30 minites)
+- read PHP and OOPs concepts. (2 hour)
+- read about magento. (1 hour)
+
+1 Nov,
+
+- Complete bugs in contact app. (2 hour)
+- revise string functions, type casting concept, php file handling (fopen, fread, etc.), php cookie and session. (1 hour)
+- learn php math functions, constant, operators, conditional statement, switch-case, loops, array, superglobals, regex., and different between include and require. (3 hour)
+- oops concepts. (1 hour)
+- access modifiers, constant, abstract class, interface, traits, namespace. (1 hour)
+
+2 Nov,
+
+- learn advance php concepts (cookie, session, JSON, Exception). (2 hour)
+- learn MySQL database operations. (CRUD) (1 hour)
+- learn array function. (2 hour)
+- learn string function. (2 hour)
+- learn AJAX. (1 hour)
+
+3 Nov,
+
+- update password fields to check multiple conditions. (2 hour)
+(Password should be at least 8 characters in length and should include at least one upper case letter, one number, and one special character.) 
+- learn AJAX. (2 hour)
+- learn loop(for, while, do-while, foreach), control statment (beark/continue), conditional statement (if..elseif..else) (1 hour)
+- learn switch-case and superglobals ($_COOKIE, $_SESSION, $_GET, $_POST etc) (1 hour)
+- read about exception handling concept. (try, catch, finally, default) (1 hour)
+- solve bugs in contact app. (1 hour)
+
+4 Nov,
+
+- learn about toggle for show and hide data. (2 hour)
+- created to-do list app and complete checked and delete action. (2 hour)
+- learn ajax. (2 hour)
+- learn some database operations. (2 hour)
+
+5 Nov,
+
+- Created To-do List. (2 hours)
+- Created Toggle items for show and hide details. (2 hours)
+- Read about jquery. (2 hours)
+- learn about JSON and API. (2 hours)
+
+7 Nov,
+
+- Complete paging problem with error. (2 hours)
+- Learn about AJAX. (1 hour)
+- Pagination done. while negative or zero id pass directly from url then first page will display (redirect on page 1 by default) (2 hour)
+- Learn SQL queries. (1 hours)
+- Worked on client-side and server-side errors. (2 hours)
+
+8 Nov,
+
+- Read about magento. (1 hour)
+- Create product category, Root categoty and sub category. (2 hours)
+- Created 3 category (men, women, kids) and in men created sub-category as Professional and Watch. (2 hours)
+- Read about Product Types in Magento. (2 hour)
+- HR Activity(Soft-Skill Training) (1 hour)
+
+9 Nov,
+
+- learn magento. (2 hour)
+- read about working of MVC Architecture. (2 hour)
+- Read about how to implement types of product and categories in Magento front end and admin panel and done its implementation. (2 hour)
+- Added filtering of product and Add Product to cart. (2 hour)
+
+10 Nov,
+
+- Attended Session with Gaurang Padiyar Sir. (2 hour)
+- Working on Task which assigned by Gaurang Padiyar Sir for Magento, Create Controller and Creating Blocks. (4 hour)
+- Read working of MVC. (1 hour)
+- Creating Layouts and templates for display content of the page. (1 hour)
+
+11 Nov,
+
+- Complete task assigned by Gaurang sir. (2 hour)
+- learn Magento (page Controller Block, Layouts, Templates) (2 hours)
+- Create Module, Block and Controller in Magento. (2 hours)
+- Create CMS page. (1 hour)
+- add product category wise. (1 hour)
+
+12 Nov,
+
+- Revise php concepts. (1 hour)
+- Created store and add 10 Products. (3 hour)
+- Added photos, price, Quantity, add to cart etc.. (2 hour)
+- Learn magento (add item, add category etc..) (2 hour)
+
+14 Nov,
+
+- Created Registration form in magento. (2 hour)
+- Create New Module, Template and block. (2 hour)
+- Read Install Schema and Db Schema. (2 hour)
+- Work on validation for Registration form. (2 hour)
+
+15 Nov,
+
+- Complete registration form with display error. (2 hour)
+- Work on Error and handle some errors. (2 hour)
+- Working on data insertion inside database. (2 hour)
+- Create table in magento using install schema. (2 hour)
+
+16 Nov,
+
+- Created module. (2 hour)
+- Created some product with different Category, Photos, Price etc. (2 hour)
+- Add to cart, comparision product, add to favorite. (2 hour)
+- Read about Create Database Table for custom module and its implementation. (2 hour)
+
+Topic => Importance of communication:
+
+- Good communication is an essential tool in achieving productivity and maintaining strong working relationships at all levels of an organisation or group.
+- Good communication Skills Enhanced our value in the workplace.
+- Proper communication can help you to solve a number of issues and resolve problems.
+- Good communication skills are essential to allow others and yourself to understand information more accurately and quickly.
+
+17 Nov,
+
+- Read about admin panel in magento. (1. Content: Page, Block, Widgets ; 2. sales: orders, invoice, shipment, transaction etc..) (2 hour)
+- Learn validation in form using magento. (2 hour)
+- Fix some bugs in app related to products image size etc. (1 hour)
+- Complete registration form for new user and also implemented login form from that user can login using their email and password. (2 hour)
+- Revise php concepts. (1 hour)
+
+21 Nov,
+
+- Complete shipping address selection from multiple addresses. (1 hour)
+- Complete review & payment. (1 hour)
+- Complete product add to cart. (1 hour)
+- Complete place order with unique order number. (1 hour)
+- User can print receipt in pdf format after purchasing item from store. (1 hour)
+- User can review product all review will save in backend with all the details of that products. (1 hour)
+- User can view (My orders, wishlist, account information, product reviews etc..) (1 hour)
+- User can select different option as per need. (mobile storage and ram using radio button). (1 hour)
+
+22 Nov,
+
+- created logo and change logo in app. (2 hour)
+- created different category. (1 hour)
+- add more products. (2 hour)
+- insert multiple option for different range phone using radio button. (2 hour)
+- hr activity: session with nitin padharia sir. (1 hour)
+
+23 Nov,
+
+- User can review product and all review updated in back-end and display in front-end review tab as well with name, date and content. (2 hour)
+- User can view other's review on particular product and also can add their own review. (30 minute)
+- User can buy any product from store i have also added limited quantity is if quantity is less than on equal to zero it will show "out of stock" otherwise showing "In stock". (3 hour)
+- Read about Declarative Schema and different types of product in magento. (30 minute)
+- For product i have added some discount if someone buy product in pair they are eligible to get discount. (1 hour)
+- Generate invoice of product and can download in pdf format. (1 hour)
+
+24 Nov,
+
+- explore magento admin panel and its functionality. (2 hour)
+- explore store configuration and working on it also make some changes. (2 hour)
+- In marketing explore (catalog price rule and cart price rule). (2 hour)
+- work on reviews product (review only display if admin approve that review.) (1 hour)
+- working on add coupons for discount on purchase. (1 hour)
+
+25 Nov,
+
+- Added review for all the product. (1 hour)
+- Added different color of item with different color and different price and images. (2 hour)
+- Read about CMS (Content Management System) in magento. (2 hour)
+- User can insert review and also can view review if admin approve review from their admin panel. (2 hour)
+- HR Activity(Guidance about udemy courses from Nitin Padhariya Sir) (1 hour)
+
+26 Nov,
+
+- Read about EAV (Entity, Attribute, Value) in magento. (2 hour)
+- Read about extension attribute.(2 hour)
+- Doubt solving session with gaurang sir. (2 hour)
+- Created 2 different store and added different products. (1 hour)
+- Read about file structure and magento admin configuration. (1 hour)
+
+28 Nov,
+
+- Created Registration form with validation and database entry. (2 hour)
+- Created Login form with validation and database entry. (2 hour)
+- Created Domain form with validation and database entry. (2 hour)
+- Created Recent-Domain Page Which display all details of recent 5 domains. (2 hour)
+
+
+
+
+- Created All-Domain Page which show all the added domains list. (1 hour)
